@@ -1,0 +1,7 @@
+DEPENDENCIES
+  valkyrie
+    path: .
+    metadata: true
+
+GRAPH
+  valkyrie (1.0.0)
