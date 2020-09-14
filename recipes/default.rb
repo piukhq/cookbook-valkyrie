@@ -14,7 +14,7 @@ template '/etc/wireguard/wg0.conf' do
   source 'wg0.conf.erb'
   variables(
     server_private_key: node['valkyrie']['server_pri_key'],
-    users: node['valkyrie']['users'],
+    users: node['valkyrie']['users']
   )
   sensitive true
   notifies :restart, 'systemd_unit[wg-quick@wg0]'
@@ -34,7 +34,7 @@ node['valkyrie']['users'].each do |i|
       address: i['ip'],
       srv_public: node['valkyrie']['server_pub_key'],
       srv_endpoint: node['valkyrie']['server_fqdn'],
-      srv_port: node['valkyrie']['server_port'],
+      srv_port: node['valkyrie']['server_port']
     )
     sensitive true
   end
