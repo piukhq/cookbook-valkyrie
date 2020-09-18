@@ -1,5 +1,6 @@
 stages:
   - tests
+  - docs
   - publish
 
 cookstyle:
@@ -7,6 +8,15 @@ cookstyle:
   image: chef/chefdk:latest
   script:
     - cookstyle
+
+
+readmeupload:
+  stage: docs
+  image: terrycain/markdown2confluence
+  script:
+    - markdown2confluence --base-url https://hellobink.atlassian.net --default-space INFRA --default-ancestor 811827556 README.md
+  only:
+    - master
 
 berksupload:
   stage: publish

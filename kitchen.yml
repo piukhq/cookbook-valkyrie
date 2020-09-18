@@ -2,23 +2,21 @@
 driver:
   name: vagrant
 
-provalkyrieer:
+provisioner:
   name: chef_solo
   product_version: 16.4.41
   chef_license: accept-no-persist
 
 platforms:
 - name: bento/ubuntu-20.04
-  driver:
-    vm_hostname: valkyrie
 
-# verifier:
-#   name: inspec
+verifier:
+  name: inspec
 
 suites:
 - name: valkyrie
   run_list:
   - recipe[valkyrie::default]
-  # verifier:
-  #   inspec_tests:
-  #   - test/integration/default
+  verifier:
+    inspec_tests:
+    - test/integration/default

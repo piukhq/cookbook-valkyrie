@@ -1,3 +1,5 @@
+apt_update
+
 package 'wireguard'
 
 execute 'reload_sysctl' do
@@ -16,8 +18,22 @@ template '/etc/wireguard/wg0.conf' do
     server_private_key: node['valkyrie']['server_pri_key'],
     users: node['valkyrie']['users']
   )
+  owner 'root'
+  group 'root'
+  mode '0640'
   sensitive true
   notifies :restart, 'systemd_unit[wg-quick@wg0]'
+end
+
+template '/etc/wireguard/users.csv' do
+  source 'users.csv.erb'
+  variables(
+    users: node['valkyrie']['users']
+  )
+  owner 'root'
+  group 'root'
+  mode '0640'
+  sensitive true
 end
 
 systemd_unit 'wg-quick@wg0' do
@@ -36,6 +52,11 @@ node['valkyrie']['users'].each do |i|
       srv_endpoint: node['valkyrie']['server_fqdn'],
       srv_port: node['valkyrie']['server_port']
     )
+    owner 'root'
+    group 'root'
+    mode '0640'
     sensitive true
   end
 end
+
+include_recipe 'valkyrie::exporter'
