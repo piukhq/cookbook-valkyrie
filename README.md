@@ -7,3 +7,7 @@ page_title: "Valkyrie"
 Deploys and Configures a Wireguard VPN on Ubuntu 20.04
 
 The wireguard exporter listens on 9586 and reads in a CSV of `publickey,friendly name` to enrich the metrics
+
+## Future improvements
+
+* Create a selfsigned certificate so that the exporters are not serving HTTP over the internet.
