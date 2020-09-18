@@ -2,6 +2,8 @@ default['valkyrie']['server_pri_key'] = 'CMQM0K7i93/YPse0jdrjo4mGiZAqAYC3Yg2junq
 default['valkyrie']['server_pub_key'] = 'Dqrm683wIfOJloXxSb9KjOx0e0+w6pQreuoiodG/n2s='
 default['valkyrie']['server_fqdn'] = 'wireguard.uksouth.bink.sh'
 default['valkyrie']['server_port'] = 51820
+default['valkyrie']['wireguard_exporter']['version'] = '1.0.0'
+default['valkyrie']['wireguard_exporter']['checksum'] = '85db6cbc6a44b02247cebcd8d0f0fda4402be8516cb4ddb1c86690259af320c1'
 
 default['valkyrie']['users'] = [
   {
