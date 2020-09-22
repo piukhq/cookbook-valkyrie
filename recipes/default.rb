@@ -40,7 +40,9 @@ systemd_unit 'wg-quick@wg0' do
   action [:enable, :start]
 end
 
-directory '/etc/wireguard/users'
+directory '/etc/wireguard/users' do
+  mode '0755'
+end
 
 node['valkyrie']['users'].each do |i|
   template "/etc/wireguard/users/#{i['name']}.conf" do
@@ -54,7 +56,7 @@ node['valkyrie']['users'].each do |i|
     )
     owner 'root'
     group 'root'
-    mode '0640'
+    mode '0644'
     sensitive true
   end
 end
