@@ -40,12 +40,12 @@ systemd_unit 'wg-quick@wg0' do
   action [:enable, :start]
 end
 
-directory '/etc/wireguard/users' do
+directory '/etc/wireguard_users' do
   mode '0755'
 end
 
 node['valkyrie']['users'].each do |i|
-  template "/etc/wireguard/users/#{i['name']}.conf" do
+  template "/etc/wireguard_users/#{i['name']}.conf" do
     source 'user.conf.erb'
     variables(
       private: i['private'],
