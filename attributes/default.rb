@@ -246,4 +246,10 @@ default['valkyrie']['users'] = [
     private: '8JfmPfR/5K1ez168nnW9gva9aMTBw/7ZO8rEWY/z81Y=',
     public: '8U4/FmQQYUEfI8/YK71PVHDy+ejIjVejemWpnKeLIm4=',
   },
+  {
+    name: 'mikayla_rowe',
+    ip: '10.10.10.42',
+    private: '6FeXTgMfnWsrWTe4A8mpjmaJp/zfx2QmnnYJRUUnUHM=',
+    public: 'B1SEIEttP1Ui0u1L1hrnO0Jbq9C2wEzU2h17nL+lMkQ=',
+  },
 ]
