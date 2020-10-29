@@ -252,4 +252,16 @@ default['valkyrie']['users'] = [
     private: '6FeXTgMfnWsrWTe4A8mpjmaJp/zfx2QmnnYJRUUnUHM=',
     public: 'B1SEIEttP1Ui0u1L1hrnO0Jbq9C2wEzU2h17nL+lMkQ=',
   },
+  {
+    name: 'luke_dalton',
+    ip: '10.10.10.43',
+    private: 'qJQeRC+hmUuyPSVDpCTyg8leQPR9UmQ/H90EjRCaKks=',
+    public: 'v1lBMSMsNuYTG7ZzVa0LE0fQSYMbLi8qEZAhNMeiRT4=',
+  },
+  {
+    name: 'mark_bumstead',
+    ip: '10.10.10.44',
+    private: '+BP92CkNu1Cf4jAYOs5EndZD/VP+Yi2EjzSZCgvzVHc=',
+    public: '0yl8lXaCfvqDQHzTQnJmfEppCUI8wujMLLDlrTIsaFM=',
+  },
 ]
