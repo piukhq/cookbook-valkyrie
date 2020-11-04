@@ -264,4 +264,10 @@ default['valkyrie']['users'] = [
     private: '+BP92CkNu1Cf4jAYOs5EndZD/VP+Yi2EjzSZCgvzVHc=',
     public: '0yl8lXaCfvqDQHzTQnJmfEppCUI8wujMLLDlrTIsaFM=',
   },
+  {
+    name: 'nathan_read',
+    ip: '10.10.10.45',
+    private: 'iKUzO3xVhASGDQqMwG0ExI8XNBKV7Q87Pjg3fzI+oXg=',
+    public: 'GRdhC8Jzx1Uo4H5WartfCy6GiiNB5W4nV/O9/CBnyU0=',
+  },
 ]
