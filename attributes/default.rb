@@ -270,4 +270,10 @@ default['valkyrie']['users'] = [
     private: 'iKUzO3xVhASGDQqMwG0ExI8XNBKV7Q87Pjg3fzI+oXg=',
     public: 'GRdhC8Jzx1Uo4H5WartfCy6GiiNB5W4nV/O9/CBnyU0=',
   },
+  {
+    name: 'sean_williams',
+    ip: '10.10.10.46',
+    private: 'GEn0tQs/JysfJQLHydv0ew8Bh12+r7VWYOXF7NWUL3Y=',
+    public: 'HEIP9JcNUFIn/sboXiKQstFQ8RewejT7WxFvIyfgjxk=',
+  },
 ]
