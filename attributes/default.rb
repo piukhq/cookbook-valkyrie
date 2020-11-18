@@ -276,4 +276,10 @@ default['valkyrie']['users'] = [
     private: 'GEn0tQs/JysfJQLHydv0ew8Bh12+r7VWYOXF7NWUL3Y=',
     public: 'HEIP9JcNUFIn/sboXiKQstFQ8RewejT7WxFvIyfgjxk=',
   },
+  {
+    name: 'lehel_kacso',
+    ip: '10.10.10.46',
+    private: 'SBV9WG4/VbUSnsZxNWwSs8yR0qr7iD7R8sT+zvU3nVk=',
+    public: 'Gk/qnC7Lgvalc9aBjujSZHtFMPIhfcWOOGhQKy3bBXA=',
+  },
 ]
