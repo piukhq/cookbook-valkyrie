@@ -278,8 +278,14 @@ default['valkyrie']['users'] = [
   },
   {
     name: 'lehel_kacso',
-    ip: '10.10.10.46',
+    ip: '10.10.10.47',
     private: 'SBV9WG4/VbUSnsZxNWwSs8yR0qr7iD7R8sT+zvU3nVk=',
     public: 'Gk/qnC7Lgvalc9aBjujSZHtFMPIhfcWOOGhQKy3bBXA=',
+  },
+  {
+    name: 'sam_bransden',
+    ip: '10.10.10.48',
+    private: 'WIcwh/UpHbj9K2XUN0OIVUCGIcekQCOcfV5POYVqpnQ=',
+    public: 'B4N21L/xyG4ffHsuiu+OvLZZ+horDmOQhQJTKMiXO2g=',
   },
 ]
