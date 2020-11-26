@@ -288,4 +288,10 @@ default['valkyrie']['users'] = [
     private: 'WIcwh/UpHbj9K2XUN0OIVUCGIcekQCOcfV5POYVqpnQ=',
     public: 'B4N21L/xyG4ffHsuiu+OvLZZ+horDmOQhQJTKMiXO2g=',
   },
+  {
+    name: 'raj_kondapalli',
+    ip: '10.10.10.49',
+    private: 'IKR6cgeA1XUB8Cw8qsjzbBH0XgSZtbz1/EPAyflstl8=',
+    public: '2UhODN8DhCdtskuH2i4ihlN+ZoNBtZtyrZ8D+4kC7Uk=',
+  },
 ]
