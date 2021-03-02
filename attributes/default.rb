@@ -115,18 +115,6 @@ default['valkyrie']['users'] = [
     public: 'S3vUSnyWcv0uv3vt4w03xi2O2tshrrW4XBD6juLZc3s=',
   },
   {
-    name: 'john_rouffas',
-    ip: '10.10.10.20',
-    private: 'EJFSa4a5SFKdqE98szEpbOHcd+6B8aLYAqjZF3QKenk=',
-    public: 'PeY9aratkH9YFhboB/OVjSP8RA6iF43DYsK+NRQ9ojk=',
-  },
-  {
-    name: 'jon_denning',
-    ip: '10.10.10.21',
-    private: 'aHtCdbia4ElWh6HMbo4mTOwaQY9Kg+bv/6K6YniITUw=',
-    public: 'RIHMTp5/lUxHqIZaPtQT2KAIFLEPxgk96mx6Yanqs3M=',
-  },
-  {
     name: 'kashim_aziz',
     ip: '10.10.10.22',
     private: 'qH/LI3ZKUyr3rpjUEnytHB5RZOGvl0R7Yu/uW18dVGs=',
@@ -293,5 +281,17 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.49',
     private: 'IKR6cgeA1XUB8Cw8qsjzbBH0XgSZtbz1/EPAyflstl8=',
     public: '2UhODN8DhCdtskuH2i4ihlN+ZoNBtZtyrZ8D+4kC7Uk=',
+  },
+  {
+    name: 'demetris_williams',
+    ip: '10.10.10.50',
+    private: 'yCpP+KV+z4D2wZYuKhA0XnlZBDkf0q8a9n1S5UB3kWk=',
+    public: '3LAxtidkr3Oq3cCHANg2/A3j5lj8ewZhxj5ht39Mijk=',
+  },
+  {
+    name: 'celeste_loftus',
+    ip: '10.10.10.51',
+    private: 'ANKSdW+Ea+egXUGE29IJ2PTvfslT1gzFdjHn7XB5nG4=',
+    public: 'luw2yxYrpUcvFyo0ld/vwMf6fGIOUva48J+w+9oCjQE=',
   },
 ]
