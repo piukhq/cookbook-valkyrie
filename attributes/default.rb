@@ -294,4 +294,10 @@ default['valkyrie']['users'] = [
     private: 'ANKSdW+Ea+egXUGE29IJ2PTvfslT1gzFdjHn7XB5nG4=',
     public: 'luw2yxYrpUcvFyo0ld/vwMf6fGIOUva48J+w+9oCjQE=',
   },
+  {
+    name: 'nick_costa',
+    ip: '10.10.10.52',
+    private: '2Gzg6BhcJDR1yGezXmqPiZqwT/bbFcT7DfWDYyD6pV0=',
+    public: 'PKo/B7XC/e+YBBcVclIn3LtMrnof4UbShZ1Co0W7JA0=',
+  },
 ]
