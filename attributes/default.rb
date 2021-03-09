@@ -302,7 +302,7 @@ default['valkyrie']['users'] = [
   },
   {
     name: 'lukie_Kang',
-    ip: '10.10.10.xxx',
+    ip: '10.10.10.53',
     private: 'kC6X0ELXttXkydC0v18PcD4+frvVZMw2coing2cNjlI=',
     public: 'dBNd0rkAlyksFeE0Se6y5J+Oj6JzIc86PsLYTmkeaic=',
   },
