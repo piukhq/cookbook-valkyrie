@@ -300,4 +300,10 @@ default['valkyrie']['users'] = [
     private: '2Gzg6BhcJDR1yGezXmqPiZqwT/bbFcT7DfWDYyD6pV0=',
     public: 'PKo/B7XC/e+YBBcVclIn3LtMrnof4UbShZ1Co0W7JA0=',
   },
+  {
+    name: 'lukie_Kang',
+    ip: '10.10.10.xxx',
+    private: 'kC6X0ELXttXkydC0v18PcD4+frvVZMw2coing2cNjlI=',
+    public: 'dBNd0rkAlyksFeE0Se6y5J+Oj6JzIc86PsLYTmkeaic=',
+  },
 ]
