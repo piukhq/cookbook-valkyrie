@@ -247,12 +247,6 @@ default['valkyrie']['users'] = [
     public: 'v1lBMSMsNuYTG7ZzVa0LE0fQSYMbLi8qEZAhNMeiRT4=',
   },
   {
-    name: 'mark_bumstead',
-    ip: '10.10.10.44',
-    private: '+BP92CkNu1Cf4jAYOs5EndZD/VP+Yi2EjzSZCgvzVHc=',
-    public: '0yl8lXaCfvqDQHzTQnJmfEppCUI8wujMLLDlrTIsaFM=',
-  },
-  {
     name: 'nathan_read',
     ip: '10.10.10.45',
     private: 'iKUzO3xVhASGDQqMwG0ExI8XNBKV7Q87Pjg3fzI+oXg=',
@@ -305,5 +299,17 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.53',
     private: 'kC6X0ELXttXkydC0v18PcD4+frvVZMw2coing2cNjlI=',
     public: 'dBNd0rkAlyksFeE0Se6y5J+Oj6JzIc86PsLYTmkeaic=',
+  },
+  {
+    name: 'michal_jozwiak',
+    ip: '10.10.10.54',
+    private: 'OB6GWrSGcciQHCnlNVnq7OLn4yxlHAEBwbPDWi48j14=',
+    public: '2XBNdAp5hfrKKRM+qlbk6j9JvA6hsMoTsLdQoz8IUDE=',
+  },
+  {
+    name: 'simon_tunmore',
+    ip: '10.10.10.55',
+    private: 'qHeFeBaWAZh+rYECVvtJOKUmO381IOrcXbjcDWO9dXc=',
+    public: 'VIYeKP09rnQ8Pj8sqIb1P79ugqyEtnRatc82/4vDlRc=',
   },
 ]
