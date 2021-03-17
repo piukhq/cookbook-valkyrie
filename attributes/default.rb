@@ -163,12 +163,6 @@ default['valkyrie']['users'] = [
     public: 'YRwe0Eifw7Io80dAniBmV3iBnTHCp4PAC2eubbGUAHQ=',
   },
   {
-    name: 'navya_james',
-    ip: '10.10.10.30',
-    private: 'aIgVGhOwMOImvm+hXd6LqCaBzJThMKpeOvUSpA1FZVA=',
-    public: '6ZlC5RhwpEx6QwU3kB38FQ9Lh600QnwgufyVsfU8LWU=',
-  },
-  {
     name: 'nick_farrant',
     ip: '10.10.10.31',
     private: '2Hhsfo3xcU0V3vzMsa9j1sCrOgV99wlVsL5K/90BD3w=',
@@ -311,5 +305,11 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.55',
     private: 'qHeFeBaWAZh+rYECVvtJOKUmO381IOrcXbjcDWO9dXc=',
     public: 'VIYeKP09rnQ8Pj8sqIb1P79ugqyEtnRatc82/4vDlRc=',
+  },
+  {
+    name: 'joshua_best',
+    ip: '10.10.10.56',
+    private: 'ADFdHTfJCEEulp6ggVhWoFqNg6/bNn2oyeScW0yoW3w=',
+    public: 'R2o9L5Bas/kJNdsWH6LXF6FHIrQok3oOcPyK6+ftBic=',
   },
 ]
