@@ -312,4 +312,10 @@ default['valkyrie']['users'] = [
     private: 'ADFdHTfJCEEulp6ggVhWoFqNg6/bNn2oyeScW0yoW3w=',
     public: 'R2o9L5Bas/kJNdsWH6LXF6FHIrQok3oOcPyK6+ftBic=',
   },
+  {
+    name: 'jake_woodhams',
+    ip: '10.10.10.57',
+    private: 'QBFFQ0Bkc4QxG6BpbYwxJfYbg6UtscRmgaJ5A9Wm72w=',
+    public: 'g14smpwbtrH7NuWc5HvbB/7GY2dbXF6C6b+u5r8jTF4=',
+  },
 ]
