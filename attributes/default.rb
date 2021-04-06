@@ -318,4 +318,10 @@ default['valkyrie']['users'] = [
     private: 'QBFFQ0Bkc4QxG6BpbYwxJfYbg6UtscRmgaJ5A9Wm72w=',
     public: 'g14smpwbtrH7NuWc5HvbB/7GY2dbXF6C6b+u5r8jTF4=',
   },
+  {
+    name: 'george_odonnell',
+    ip: '10.10.10.58',
+    private: 'eCz8M2b9bSlAs80btKSGw5PS4lM9BQ8okkpyNdMpkmQ=',
+    public: 'fG0HAQfi7hHiDqIxSg88EM/JDHhyOWO+S5cloYitsCo=',
+  },
 ]
