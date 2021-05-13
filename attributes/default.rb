@@ -324,4 +324,10 @@ default['valkyrie']['users'] = [
     private: 'eCz8M2b9bSlAs80btKSGw5PS4lM9BQ8okkpyNdMpkmQ=',
     public: 'fG0HAQfi7hHiDqIxSg88EM/JDHhyOWO+S5cloYitsCo=',
   },
+  {
+    name: 'chris_sterritt',
+    ip: '10.10.10.59',
+    private: '+CBlnqHeaw73h5qyLJSwoE+A6u/9iW3XsE3ZSL4c8Ho=',
+    public: 'VcBZRXMnmhSeppUPJwioV3FVyNzt2ql359U+FdIdOnc=',
+  },
 ]
