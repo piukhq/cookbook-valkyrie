@@ -330,4 +330,10 @@ default['valkyrie']['users'] = [
     private: '+CBlnqHeaw73h5qyLJSwoE+A6u/9iW3XsE3ZSL4c8Ho=',
     public: 'VcBZRXMnmhSeppUPJwioV3FVyNzt2ql359U+FdIdOnc=',
   },
+  {
+    name: 'bula_raghavan',
+    ip: '10.10.10.60',
+    private: 'YE1ECxth5oJbYbC4Qx+1FPl3LKYkn1sLizrI/39ZXW4=',
+    public: 'IcfLi1D0dFdsBefJSYAWH7S0TX4qP5Vdckze0LYlFgo=',
+  },
 ]
