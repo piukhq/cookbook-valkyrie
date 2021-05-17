@@ -336,4 +336,10 @@ default['valkyrie']['users'] = [
     private: 'YE1ECxth5oJbYbC4Qx+1FPl3LKYkn1sLizrI/39ZXW4=',
     public: 'IcfLi1D0dFdsBefJSYAWH7S0TX4qP5Vdckze0LYlFgo=',
   },
+  {
+    name: 'charlie_bricknell',
+    ip: '10.10.10.61',
+    private: 'cNOBntkydG6IAY9250S+WvvfLZAcxJPhT5OMHqx+aEg=',
+    public: 'IOFoVqc7NPLnXG8PlzYql7S/6ewbzijvmthFXAj32SE=',
+  },
 ]
