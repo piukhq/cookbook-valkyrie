@@ -342,4 +342,10 @@ default['valkyrie']['users'] = [
     private: 'cNOBntkydG6IAY9250S+WvvfLZAcxJPhT5OMHqx+aEg=',
     public: 'IOFoVqc7NPLnXG8PlzYql7S/6ewbzijvmthFXAj32SE=',
   },
+  {
+    name: 'bola_ogundeji',
+    ip: '10.10.10.62',
+    private: 'wOPpxd5SCsRq4UIB5V1+EF+6GoduDn+N2CuAKirKNGs=',
+    public: 'QAbPFYRTpo4im4FYfTHCnb2ytsK42ZX0yQuuXcG1/mQ=',
+  },
 ]
