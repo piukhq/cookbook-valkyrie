@@ -103,12 +103,6 @@ default['valkyrie']['users'] = [
     public: 'PM4IC1q70tam+ujHXfo04sCOM4b0MzdNfleXooZOuw8=',
   },
   {
-    name: 'heidi_herre',
-    ip: '10.10.10.18',
-    private: '8JprpBB84HIezzTW676V3xvu42stnY5gMN3J8WtRU3c=',
-    public: 'EiFg/QYCADv/60OXzfs3gaXiCziwCwmz30v2VMBh43E=',
-  },
-  {
     name: 'jack_rostron',
     ip: '10.10.10.19',
     private: 'yKQqMBxRcbV9xkmBRnIhI4DX80ooMnW9ZXhxSdsbdmQ=',
@@ -235,12 +229,6 @@ default['valkyrie']['users'] = [
     public: 'B1SEIEttP1Ui0u1L1hrnO0Jbq9C2wEzU2h17nL+lMkQ=',
   },
   {
-    name: 'luke_dalton',
-    ip: '10.10.10.43',
-    private: 'qJQeRC+hmUuyPSVDpCTyg8leQPR9UmQ/H90EjRCaKks=',
-    public: 'v1lBMSMsNuYTG7ZzVa0LE0fQSYMbLi8qEZAhNMeiRT4=',
-  },
-  {
     name: 'nathan_read',
     ip: '10.10.10.45',
     private: 'iKUzO3xVhASGDQqMwG0ExI8XNBKV7Q87Pjg3fzI+oXg=',
@@ -275,12 +263,6 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.50',
     private: 'yCpP+KV+z4D2wZYuKhA0XnlZBDkf0q8a9n1S5UB3kWk=',
     public: '3LAxtidkr3Oq3cCHANg2/A3j5lj8ewZhxj5ht39Mijk=',
-  },
-  {
-    name: 'celeste_loftus',
-    ip: '10.10.10.51',
-    private: 'ANKSdW+Ea+egXUGE29IJ2PTvfslT1gzFdjHn7XB5nG4=',
-    public: 'luw2yxYrpUcvFyo0ld/vwMf6fGIOUva48J+w+9oCjQE=',
   },
   {
     name: 'nick_costa',
