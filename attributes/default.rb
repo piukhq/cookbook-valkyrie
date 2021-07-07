@@ -348,4 +348,10 @@ default['valkyrie']['users'] = [
     private: 'wOPpxd5SCsRq4UIB5V1+EF+6GoduDn+N2CuAKirKNGs=',
     public: 'QAbPFYRTpo4im4FYfTHCnb2ytsK42ZX0yQuuXcG1/mQ=',
   },
+  {
+    name: 'jess_jones',
+    ip: '10.10.10.63',
+    private: 'EE0ncxt74FzmhzibE1xupTTb6C2AeNLUf0xWG7BiaG8=',
+    public: 'TdmDLuwSMUKp9R3E2E4VtU3MebDcPKKNVuMAJEo6pTA=',
+  },
 ]
