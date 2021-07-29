@@ -247,12 +247,6 @@ default['valkyrie']['users'] = [
     public: 'B4N21L/xyG4ffHsuiu+OvLZZ+horDmOQhQJTKMiXO2g=',
   },
   {
-    name: 'raj_kondapalli',
-    ip: '10.10.10.49',
-    private: 'IKR6cgeA1XUB8Cw8qsjzbBH0XgSZtbz1/EPAyflstl8=',
-    public: '2UhODN8DhCdtskuH2i4ihlN+ZoNBtZtyrZ8D+4kC7Uk=',
-  },
-  {
     name: 'demetris_williams',
     ip: '10.10.10.50',
     private: 'yCpP+KV+z4D2wZYuKhA0XnlZBDkf0q8a9n1S5UB3kWk=',
