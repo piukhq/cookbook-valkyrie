@@ -247,18 +247,6 @@ default['valkyrie']['users'] = [
     public: 'B4N21L/xyG4ffHsuiu+OvLZZ+horDmOQhQJTKMiXO2g=',
   },
   {
-    name: 'demetris_williams',
-    ip: '10.10.10.50',
-    private: 'yCpP+KV+z4D2wZYuKhA0XnlZBDkf0q8a9n1S5UB3kWk=',
-    public: '3LAxtidkr3Oq3cCHANg2/A3j5lj8ewZhxj5ht39Mijk=',
-  },
-  {
-    name: 'nick_costa',
-    ip: '10.10.10.52',
-    private: '2Gzg6BhcJDR1yGezXmqPiZqwT/bbFcT7DfWDYyD6pV0=',
-    public: 'PKo/B7XC/e+YBBcVclIn3LtMrnof4UbShZ1Co0W7JA0=',
-  },
-  {
     name: 'lukie_Kang',
     ip: '10.10.10.53',
     private: 'kC6X0ELXttXkydC0v18PcD4+frvVZMw2coing2cNjlI=',
