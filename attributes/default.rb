@@ -312,4 +312,10 @@ default['valkyrie']['users'] = [
     private: 'EE0ncxt74FzmhzibE1xupTTb6C2AeNLUf0xWG7BiaG8=',
     public: 'TdmDLuwSMUKp9R3E2E4VtU3MebDcPKKNVuMAJEo6pTA=',
   },
+  {
+    name: 'parinita_khond',
+    ip: '10.10.10.64',
+    private: 'kIsA/wBmWKgHlb9UGh+1MHHnjdrXlPfYhe6124/1+EA=',
+    public: 'oPy8RGvOWfkZ3df2mRVmv783HknEcWCNrstRHOBeKBY=',
+  },
 ]
