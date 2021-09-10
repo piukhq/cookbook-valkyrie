@@ -318,4 +318,10 @@ default['valkyrie']['users'] = [
     private: 'kIsA/wBmWKgHlb9UGh+1MHHnjdrXlPfYhe6124/1+EA=',
     public: 'oPy8RGvOWfkZ3df2mRVmv783HknEcWCNrstRHOBeKBY=',
   },
+  {
+    name: 'jo_raine',
+    ip: '10.10.10.65',
+    private: 'MIk4N9+a4MSC0CWtsHW6i11rNgp66daoPe7+2FU2G1Q=',
+    public: '+agdinAXMOiPAUxQ4vEradt/wIdkEHzofoz418Dd83s=',
+  },
 ]
