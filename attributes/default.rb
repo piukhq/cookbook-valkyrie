@@ -205,12 +205,6 @@ default['valkyrie']['users'] = [
     public: '756RG0NSHE7lLHPyoEyzpBIrZVD1Knk3K2waFm24kmc=',
   },
   {
-    name: 'terry_cain',
-    ip: '10.10.10.39',
-    private: 'uPqwsvq/cZoUGHm7KX+3nCo8lr2lwry3qK50CNSTi0Q=',
-    public: 'aYhkNA0CkFgPxNy2vRgcwOgOQI7dyfXNXeDwKqAXnXI=',
-  },
-  {
     name: 'tom_winchester',
     ip: '10.10.10.40',
     private: 'SJSq9ICb2s7gAiOtuk7dC1/fykmeoMtNQe8pdFahR1k=',
@@ -323,5 +317,11 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.65',
     private: 'MIk4N9+a4MSC0CWtsHW6i11rNgp66daoPe7+2FU2G1Q=',
     public: '+agdinAXMOiPAUxQ4vEradt/wIdkEHzofoz418Dd83s=',
+  },
+  {
+    name: 'lewis_hamilton',
+    ip: '10.10.10.67',
+    private: '4Jjw6YMHSiu70T6X/RdTFEl0kILZrckB4iH+pyqsr3k=',
+    public: 'hbfh2964IHR26m8ZXJt5XTcJUm7GAxNvP0JymHiKWEk=',
   },
 ]
