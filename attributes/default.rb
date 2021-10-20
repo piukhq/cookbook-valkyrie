@@ -324,4 +324,10 @@ default['valkyrie']['users'] = [
     private: '4Jjw6YMHSiu70T6X/RdTFEl0kILZrckB4iH+pyqsr3k=',
     public: 'hbfh2964IHR26m8ZXJt5XTcJUm7GAxNvP0JymHiKWEk=',
   },
+  {
+    name: 'kishan_patel',
+    ip: '10.10.10.68',
+    private: 'AE5eX7hJfvSxVwzG9UzWWZVnAYEVPLDBHy4+6wvzl1M=',
+    public: 'qcssLgG9oY6IViW6WP6zscTDMF47OJ8MO/HJ95EVew0=',
+  },
 ]
