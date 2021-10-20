@@ -18,7 +18,5 @@ jobs:
           mkdir ~/.chef
           echo "current_dir = File.dirname(__FILE__)\nlog_level :info\nlog_location STDOUT\nnode_name \"${{ secrets.CHEF_USER }}\"\nclient_key \"#{current_dir}/user.pem\"\nchef_server_url \"${{ secrets.CHEF_URL }}\"\ncookbook_path [\"#{current_dir}/../cookbooks\"]" > ~/.chef/knife.rb
           echo "${{ secrets.CHEF_PEM }}" > ~/.chef/user.pem
-          cat ~/.chef/user.pem
-          cat ~/.chef/knife.rb
           berks install
           berks upload
