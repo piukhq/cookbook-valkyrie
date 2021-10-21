@@ -330,4 +330,10 @@ default['valkyrie']['users'] = [
     private: 'AE5eX7hJfvSxVwzG9UzWWZVnAYEVPLDBHy4+6wvzl1M=',
     public: 'qcssLgG9oY6IViW6WP6zscTDMF47OJ8MO/HJ95EVew0=',
   },
+  {
+    name: 'carla_gouws',
+    ip: '10.10.10.69',
+    private: '4O83vcy87nmv0YFKus8lZeYAlw3vSAT6dVJRrSshHGQ=',
+    public: 'T+mtru+e21AXVXfEltTcs5d7RDwUTFpKG187Ugwhl2E=',
+  },
 ]
