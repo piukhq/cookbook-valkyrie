@@ -336,4 +336,22 @@ default['valkyrie']['users'] = [
     private: '4O83vcy87nmv0YFKus8lZeYAlw3vSAT6dVJRrSshHGQ=',
     public: 'T+mtru+e21AXVXfEltTcs5d7RDwUTFpKG187Ugwhl2E=',
   },
+  {
+    name: 'lora_rowley',
+    ip: '10.10.10.70',
+    private: '8CdGwCF9VnCxEwFhI5o3ZtPYHgAylQ6KDELN6KRJd2Q=',
+    public: 'vPh9+EHbsq3Ci29npH0W7Xdra4/tDBanBHpp6WMbyhs=',
+  },
+  {
+    name: 'carmen_muntean',
+    ip: '10.10.10.71',
+    private: '4GqN0vSkzdarn67zjbxoWbmj7+ic+xQdBSpMnSZ1/1U=',
+    public: 'zpKRVB0veoSzD+z2CzhOD822GuQRFhju5xay4ryk9Wo=',
+  },
+  {
+    name: 'hollie_lantsbery',
+    ip: '10.10.10.72',
+    private: 'uF/J3uNv0XGE6GYlD/moTYoYGnRnywbW8Cg9BHq5k3w=',
+    public: '4+kqFz96PLoOvax5HE9O92Ph2+bmFEQjYaza3CDLCx0=',
+  },
 ]
