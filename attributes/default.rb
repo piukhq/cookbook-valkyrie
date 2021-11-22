@@ -354,4 +354,10 @@ default['valkyrie']['users'] = [
     private: 'uF/J3uNv0XGE6GYlD/moTYoYGnRnywbW8Cg9BHq5k3w=',
     public: '4+kqFz96PLoOvax5HE9O92Ph2+bmFEQjYaza3CDLCx0=',
   },
+  {
+    name: 'chris_morrow',
+    ip: '10.10.10.73',
+    private: 'KEAYF5eYFv+kSp84TCCAuRszjVCXm+JNuh+N8guceX4=',
+    public: 'ayNpNE+L+5j39Q/DSaPJb0A/l//IhakLfaEjn3wZ1GI=',
+  },
 ]
