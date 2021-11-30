@@ -360,4 +360,22 @@ default['valkyrie']['users'] = [
     private: 'KEAYF5eYFv+kSp84TCCAuRszjVCXm+JNuh+N8guceX4=',
     public: 'ayNpNE+L+5j39Q/DSaPJb0A/l//IhakLfaEjn3wZ1GI=',
   },
+  {
+    name: 'martin_franklin',
+    ip: '10.10.10.74',
+    private: '8FDbQlprjKVoguhGKCzWatO3zzyLwMQbYz30rLk6GHU=',
+    public: 'o9SvXSICts4S3evaVhsXjyZ4B3YIO6ZEzJI8P+WmcXU=',
+  },
+  {
+    name: 'haffi_mazhar',
+    ip: '10.10.10.75',
+    private: 'MNMknTFuiy1iofrC/8Rhr4g0T1B1ACidwF+S8kxgt3g=',
+    public: 'em3YgDI6tKHIuE/L8bCoT2vaVqaIxxZ6JgCRXyflLBg=',
+  },
+  {
+    name: 'andrew_preen',
+    ip: '10.10.10.76',
+    private: 'aMsBmaERj0kr1Bkupob5OqR9mIFzhXFjmxsnJWuS20I=',
+    public: 'gD9GBegoNDASaiXYNghSDFmY/1f7ryDOsskzklmt/iU=',
+  },
 ]
