@@ -115,12 +115,6 @@ default['valkyrie']['users'] = [
     public: 'iii1E1//XMKOXNMD9T6+GKCxmow0YtgSAGheuUuAZ30=',
   },
   {
-    name: 'laura_lecae',
-    ip: '10.10.10.23',
-    private: 'YOvyt7dxyMnwZMWXEBSb03huFyFr3GH8eMJXisG3TEA=',
-    public: 'UgzwyVgaoaFF4lo4uLm4k7M3z0qjTtCXNyzJOjRPbDA=',
-  },
-  {
     name: 'mark_swarbrick',
     ip: '10.10.10.24',
     private: 'oFCQf6qTPb+zf0dWdCMIvY75qGXhJK6wyytuEi/KbUs=',

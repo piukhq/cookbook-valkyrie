@@ -40,12 +40,38 @@ systemd_unit 'wg-quick@wg0' do
   action [:enable, :start]
 end
 
-directory '/etc/wireguard_users' do
-  mode '0755'
+apt_update 'cifs-utils'
+
+directory '/mount/binkuksouthwireguard'
+directory '/mount/binkuksouthwireguard/users'
+
+systemd_unit 'mount-binkuksouthwireguard-users.mount' do
+  content(
+    Mount: {
+      What: '//binkuksouthwireguard.file.core.windows.net/users',
+      Where: '/mount/binkuksouthwireguard/users',
+      Options: 'username=binkuksouthwireguard,password=Tn4R5RcvTK/NZnV80XhWwCJQc4aNukFAyYL7SVM73wFKoCzFIATdElBNnO/76FQ4zUjs4aZBQjHrQTCnPyf2UA==,serverino',
+      Type: 'cifs',
+    }
+  )
+  action :create
+end
+
+systemd_unit 'mount-binkuksouthwireguard-users.mount' do
+  content(
+    Unit: {
+      Requires: 'remote-fs-pre.target',
+      After: 'remote-fs-pre.target',
+    },
+    Install: {
+      WantedBy: 'remote-fs.target',
+    }
+  )
+  action [:create, :enable, :start]
 end
 
 node['valkyrie']['users'].each do |i|
-  template "/etc/wireguard_users/#{i['name']}.conf" do
+  template "/mount/binkuksouthwireguard/users/#{i['name']}.conf" do
     source 'user.conf.erb'
     variables(
       private: i['private'],
@@ -59,6 +85,12 @@ node['valkyrie']['users'].each do |i|
     mode '0644'
     sensitive true
   end
+end
+
+# Remove legacy wireguard_users directory
+directory '/etc/wireguard_users' do
+  recursive true
+  action :delete
 end
 
 include_recipe 'valkyrie::exporter'
