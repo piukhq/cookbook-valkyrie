@@ -57,7 +57,7 @@ systemd_unit 'mount-binkuksouthwireguard-users.mount' do
   action :create
 end
 
-systemd_unit 'mount-binkuksouthwireguard-users.mount' do
+systemd_unit 'mount-binkuksouthwireguard-users.automount' do
   content(
     Unit: {
       Requires: 'remote-fs-pre.target',
