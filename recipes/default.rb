@@ -50,7 +50,7 @@ systemd_unit 'mount-binkuksouthwireguard-users.mount' do
     Mount: {
       What: '//binkuksouthwireguard.file.core.windows.net/users',
       Where: '/mount/binkuksouthwireguard/users',
-      Options: 'username=binkuksouthwireguard,password=Tn4R5RcvTK/NZnV80XhWwCJQc4aNukFAyYL7SVM73wFKoCzFIATdElBNnO/76FQ4zUjs4aZBQjHrQTCnPyf2UA==,serverino',
+      Options: 'username=binkuksouthwireguard,password=Tn4R5RcvTK/NZnV80XhWwCJQc4aNukFAyYL7SVM73wFKoCzFIATdElBNnO/76FQ4zUjs4aZBQjHrQTCnPyf2UA==,file_mode=0644,serverino',
       Type: 'cifs',
     }
   )
