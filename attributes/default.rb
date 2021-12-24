@@ -163,12 +163,6 @@ default['valkyrie']['users'] = [
     public: 'subT7K07D6Q7ijpWV6kp2NbnYpFtXgRzVZ1Ej4lFlSk=',
   },
   {
-    name: 'rahima_karbary',
-    ip: '10.10.10.33',
-    private: 'oLDeLLz179l2EAm0khSJB6+QosHGF6L2oSLV69jydHY=',
-    public: 'mU+FO5oq/zd62bbdLKJiSSz+95ZvdYFRoljDhHoKj3A=',
-  },
-  {
     name: 'rupal_patel',
     ip: '10.10.10.34',
     private: 'CGJUNEAki5D7HE76KII76n9Xp+eEz6D1xKwGzLEy6Ew=',
@@ -269,12 +263,6 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.58',
     private: 'eCz8M2b9bSlAs80btKSGw5PS4lM9BQ8okkpyNdMpkmQ=',
     public: 'fG0HAQfi7hHiDqIxSg88EM/JDHhyOWO+S5cloYitsCo=',
-  },
-  {
-    name: 'chris_sterritt',
-    ip: '10.10.10.59',
-    private: '+CBlnqHeaw73h5qyLJSwoE+A6u/9iW3XsE3ZSL4c8Ho=',
-    public: 'VcBZRXMnmhSeppUPJwioV3FVyNzt2ql359U+FdIdOnc=',
   },
   {
     name: 'bula_raghavan',
