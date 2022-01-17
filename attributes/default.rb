@@ -360,4 +360,10 @@ default['valkyrie']['users'] = [
     private: 'aMsBmaERj0kr1Bkupob5OqR9mIFzhXFjmxsnJWuS20I=',
     public: 'gD9GBegoNDASaiXYNghSDFmY/1f7ryDOsskzklmt/iU=',
   },
+  {
+    name: 'neha.patil',
+    ip: '10.10.10.77',
+    private: 'cOHy1ReGN5J9FoYDO6eh0XQm6y704/tvlR622+mguV0=',
+    public: 'FIn1qbAfEUsJ5XCK8g7whCPU3lTMdWbDa6fFvGkkcSY=',
+  },
 ]
