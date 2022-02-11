@@ -366,4 +366,10 @@ default['valkyrie']['users'] = [
     private: 'cOHy1ReGN5J9FoYDO6eh0XQm6y704/tvlR622+mguV0=',
     public: 'FIn1qbAfEUsJ5XCK8g7whCPU3lTMdWbDa6fFvGkkcSY=',
   },
+  {
+    name: 'adam_bottley',
+    ip: '10.10.10.78',
+    private: '4L6xqWNFSxKsWu+8wtHG/ORxZCIZoBlPPrZFy6kdM3c=',
+    public: 'on02KU1sk6w3J/spfBuqjyBDI4x6KBt5X33P05xRBj0=',
+  },
 ]
