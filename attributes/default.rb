@@ -372,4 +372,10 @@ default['valkyrie']['users'] = [
     private: '4L6xqWNFSxKsWu+8wtHG/ORxZCIZoBlPPrZFy6kdM3c=',
     public: 'on02KU1sk6w3J/spfBuqjyBDI4x6KBt5X33P05xRBj0=',
   },
+  {
+    name: 'tyrelle_dokyi',
+    ip: '10.10.10.79',
+    private: 'mPikUFNM8h5Z89k86FOQqG+NcW9rmDxRF8bIdmDNq0w=',
+    public: 'TzfKCVcs/6XZIN6uex6fvTrwi7mCr6ebf3HiZIxkdBc=',
+  },
 ]
