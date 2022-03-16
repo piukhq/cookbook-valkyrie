@@ -147,8 +147,8 @@ default['valkyrie']['users'] = [
   {
     name: 'navin_odera',
     ip: '10.10.10.29',
-    private: 'IK0MvkSTSJYMw3L8Nt4mHKEf8AlcG+C5O4wDwiS6H24=',
-    public: 'YRwe0Eifw7Io80dAniBmV3iBnTHCp4PAC2eubbGUAHQ=',
+    private: '+BYswEguDtNYT6wMxrP0x7AYE9pyeWx8gAQTmL6GnGg=',
+    public: 'csoKHNy+fp8EZ6g10TL1LEA6kWzrzgzQ2DFkLKZ4d28=',
   },
   {
     name: 'nick_farrant',
