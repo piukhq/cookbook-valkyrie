@@ -360,4 +360,10 @@ default['valkyrie']['users'] = [
     private: 'YObUj55m2tTS+dI8MAvtti+I0Uc+EcHAGdd1ekcDvH8=',
     public: 'wRqqsOLN1NnqIM9zvg9pPOZE9qwQ5u3QLRAi3OqWxlM=',
   },
+  {
+    name: 'sarah_armstrong',
+    ip: '10.10.10.81',
+    private: '4N1djeSt0jz40CzAoG/dHcxMYqGwAOlGeMuXnpqQ/0o=',
+    public: 'oAjLB5wShBE3+S1sm98j90fkgZsEpEb9RJk5RDAOAUg=',
+  },
 ]

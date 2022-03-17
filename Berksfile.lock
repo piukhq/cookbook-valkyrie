@@ -4,4 +4,4 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  valkyrie (1.4.0)
+  valkyrie (1.4.1)
