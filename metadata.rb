@@ -1,3 +1,3 @@
 name 'valkyrie'
 description 'Deploys and Configures a Wireguard Server'
-version '1.3.8'
+version '1.4.0'
