@@ -79,12 +79,6 @@ default['valkyrie']['users'] = [
     public: 'TzqRRnCg9rlnDn3cx41HKqoEOiyKClavtashDb0jjBI=',
   },
   {
-    name: 'david_felce',
-    ip: '10.10.10.14',
-    private: 'aCHzzUtkClxfQmulMiO00JyHhelGYJVyHYQK28rmE2M=',
-    public: 'TiKOfu9MGqHjbrpM0FFTA8rxvfw3NOXrHfz+Mrc4v10=',
-  },
-  {
     name: 'enoch_hankombo',
     ip: '10.10.10.15',
     private: 'EItrCp1fwTR2agLq81fATJIq1Cc1m6HxqvT34NkHm3g=',
@@ -365,5 +359,11 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.81',
     private: '4N1djeSt0jz40CzAoG/dHcxMYqGwAOlGeMuXnpqQ/0o=',
     public: 'oAjLB5wShBE3+S1sm98j90fkgZsEpEb9RJk5RDAOAUg=',
+  },
+  {
+    name: 'david_felce',
+    ip: '10.10.10.82',
+    private: 'gBkveQJhFD518jLX7o2pDEx0j72mkv079HrHwAPG9Ew=',
+    public: 'AosXYMKB3BvY4EB/NTdImYUvUqyTB4Onzegtbs89qVg=',
   },
 ]
