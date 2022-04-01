@@ -374,7 +374,7 @@ default['valkyrie']['users'] = [
   },
   {
     name: 'bilal_leadbitter',
-    ip: '10.10.10.xxx',
+    ip: '10.10.10.84',
     private: 'cAOqmPSsFG7AqU3LY0pmQaINPoKEtXBW2Q3jMZxSkWA=',
     public: 'qPCObcVSWR6Q2NNgdkZDGGPNkmvx1rxCTJzutVIYYVU=',
   },
