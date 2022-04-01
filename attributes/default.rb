@@ -366,4 +366,16 @@ default['valkyrie']['users'] = [
     private: 'gBkveQJhFD518jLX7o2pDEx0j72mkv079HrHwAPG9Ew=',
     public: 'AosXYMKB3BvY4EB/NTdImYUvUqyTB4Onzegtbs89qVg=',
   },
+  {
+    name: 'thenuja_viknarajah',
+    ip: '10.10.10.83',
+    private: 'iNjBRbGjO/cRagYShPujC9KmxQzCLxSEci7cTM/fHF0=',
+    public: 'N5jqIUOXp6ow1jkldETEtKDZiMxQnnmob6u29K9kVUU=',
+  },
+  {
+    name: 'bilal_leadbitter',
+    ip: '10.10.10.xxx',
+    private: 'cAOqmPSsFG7AqU3LY0pmQaINPoKEtXBW2Q3jMZxSkWA=',
+    public: 'qPCObcVSWR6Q2NNgdkZDGGPNkmvx1rxCTJzutVIYYVU=',
+  },
 ]
