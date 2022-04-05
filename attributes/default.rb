@@ -151,12 +151,6 @@ default['valkyrie']['users'] = [
     public: 'hFumF/dW46KgqYKL1EZ/WsaE93PW2Ds/7y0Psq+FmnE=',
   },
   {
-    name: 'rupal_patel',
-    ip: '10.10.10.34',
-    private: 'KM5eisAOzt9xaCG2jWGWVZSCujtJ8qk0qHA+kI0sQkE=',
-    public: 'pla6T5zt+uw1DA3U0ZXF4xRt/B5q7WGlX22l5IjHKBA=',
-  },
-  {
     name: 'srikalyani_kotha',
     ip: '10.10.10.35',
     private: '4BGBpRYnlkMGDUBn01B2KwIqAC5ipNO2AqGuhGIjS1s=',
@@ -377,5 +371,11 @@ default['valkyrie']['users'] = [
     ip: '10.10.10.84',
     private: 'cAOqmPSsFG7AqU3LY0pmQaINPoKEtXBW2Q3jMZxSkWA=',
     public: 'qPCObcVSWR6Q2NNgdkZDGGPNkmvx1rxCTJzutVIYYVU=',
+  },
+  {
+    name: 'rupal_patel',
+    ip: '10.10.10.85',
+    private: 'WAwoEHWHPI1L/VSrD6TIl1ekGVln0tELhnpmJGScNEs=',
+    public: 'XzoZUkdW9XQrAM0YfXy8zcCJpLj6RfPYCzJhNeD9lxI=',
   },
 ]
