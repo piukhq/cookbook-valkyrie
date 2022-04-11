@@ -378,4 +378,10 @@ default['valkyrie']['users'] = [
     private: 'WAwoEHWHPI1L/VSrD6TIl1ekGVln0tELhnpmJGScNEs=',
     public: 'XzoZUkdW9XQrAM0YfXy8zcCJpLj6RfPYCzJhNeD9lxI=',
   },
+  {
+    name: 'sam_hedges',
+    ip: '10.10.10.86',
+    private: 'YH5NrOEEF2VUkOkd/np5dkRB4lzv1Y20a2fL7yhHvlQ=',
+    public: 'v7jq4i9c+WJ5+nDNFuJgim9aDnDNUJuvk+k2Sp+QXx0=',
+  },
 ]
