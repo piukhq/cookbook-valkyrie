@@ -375,8 +375,8 @@ default['valkyrie']['users'] = [
   {
     name: 'rupal_patel',
     ip: '10.10.10.85',
-    private: 'WAwoEHWHPI1L/VSrD6TIl1ekGVln0tELhnpmJGScNEs=',
-    public: 'XzoZUkdW9XQrAM0YfXy8zcCJpLj6RfPYCzJhNeD9lxI=',
+    private: 'QF/v8RibY2I7S/ZlYJKua2U8CsbD8AyWXhgGQWUQM2Y=',
+    public: 'ddSBJCgdT26W80iMDndhJU1JjsjTuairzV7aDZg9rWQ=',
   },
   {
     name: 'sam_hedges',
