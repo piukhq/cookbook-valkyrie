@@ -384,4 +384,10 @@ default['valkyrie']['users'] = [
     private: 'YH5NrOEEF2VUkOkd/np5dkRB4lzv1Y20a2fL7yhHvlQ=',
     public: 'v7jq4i9c+WJ5+nDNFuJgim9aDnDNUJuvk+k2Sp+QXx0=',
   },
+  {
+    name: 'joe_kurowski',
+    ip: '10.10.10.87',
+    private: '4PiCkK/TXa2ltvyfo2aehHy5VdhLQFfRRPQATDGuz2E=',
+    public: 'soIA19jgdK8wbdDqbAa00o+hU/FXe4OpyQ/I9qkpEnU=',
+  },
 ]
