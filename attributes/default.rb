@@ -390,4 +390,10 @@ default['valkyrie']['users'] = [
     private: '4PiCkK/TXa2ltvyfo2aehHy5VdhLQFfRRPQATDGuz2E=',
     public: 'soIA19jgdK8wbdDqbAa00o+hU/FXe4OpyQ/I9qkpEnU=',
   },
+  {
+    name: 'ricardo_silva',
+    ip: '10.10.10.88',
+    private: '4DS781yAVXH9g/q9S0gcC371rzhJShgG2yBySqNevFE=',
+    public: 'Ee4jhYsGn3cjpL/DWd+MUM0rvrQMDZIL8Zkodt9oZic=',
+  },
 ]
