@@ -396,4 +396,10 @@ default['valkyrie']['users'] = [
     private: '4DS781yAVXH9g/q9S0gcC371rzhJShgG2yBySqNevFE=',
     public: 'Ee4jhYsGn3cjpL/DWd+MUM0rvrQMDZIL8Zkodt9oZic=',
   },
+  {
+    name: 'jose_jimenez_mancha',
+    ip: '10.10.10.89',
+    private: 'aOzzXDYRZHQ5nbVrMu81VREG68Y54tOqmbvDepaugk4=',
+    public: 'gzR5cmPF89szPjqBNAlHsl4rlNXyaUp96uol8mONXFc=',
+  },
 ]
