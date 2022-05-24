@@ -402,4 +402,10 @@ default['valkyrie']['users'] = [
     private: 'aOzzXDYRZHQ5nbVrMu81VREG68Y54tOqmbvDepaugk4=',
     public: 'gzR5cmPF89szPjqBNAlHsl4rlNXyaUp96uol8mONXFc=',
   },
+  {
+    name: 'navya_james',
+    ip: '10.10.10.90',
+    private: 'gEQnqvin+2YmoiX4y4Br3jQPgzJ5++8543vDBl2jvW0=',
+    public: '2IpzsJcpNZ40CgvqEBGklrRifjVVLTToF6ljwAHYFCQ=',
+  },
 ]
