@@ -408,4 +408,10 @@ default['valkyrie']['users'] = [
     private: 'gEQnqvin+2YmoiX4y4Br3jQPgzJ5++8543vDBl2jvW0=',
     public: '2IpzsJcpNZ40CgvqEBGklrRifjVVLTToF6ljwAHYFCQ=',
   },
+  {
+    name: 'kristian_krastev',
+    ip: '10.10.10.91',
+    private: 'aNQgD0+ekkwr4SAunNCtCHMsdapQGpo7MdvjKEBINnI=',
+    public: '3wRVrs7LHzEy5jghwyT3pUE5cbxDZNcf0FZUQrxKnBE=',
+  },
 ]
