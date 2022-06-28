@@ -414,4 +414,10 @@ default['valkyrie']['users'] = [
     private: 'aNQgD0+ekkwr4SAunNCtCHMsdapQGpo7MdvjKEBINnI=',
     public: '3wRVrs7LHzEy5jghwyT3pUE5cbxDZNcf0FZUQrxKnBE=',
   },
+  {
+    name: 'matt_lau',
+    ip: '10.10.10.92',
+    private: '6KJ7MGxuC0nU5OmdhDsXLerfbkYqsKG0SPCgbvgsRHI=',
+    public: 'Zw+a88lzKxnUd23JpgiIo3VZwz4tWC5E/ZhSCfY9500=',
+  },
 ]
