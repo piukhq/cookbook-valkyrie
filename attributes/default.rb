@@ -420,4 +420,16 @@ default['valkyrie']['users'] = [
     private: '6KJ7MGxuC0nU5OmdhDsXLerfbkYqsKG0SPCgbvgsRHI=',
     public: 'Zw+a88lzKxnUd23JpgiIo3VZwz4tWC5E/ZhSCfY9500=',
   },
+  {
+    name: 'andrew_waddell',
+    ip: '10.10.10.93',
+    private: 'ELzcrd1nzSk5UQ4N+M5988C/tn6Uu9lE7I/TN08WL2E=',
+    public: 'EPzUAjKES93RJSszrTAlwNKMYks1hcBezvI1AxegwlM=',
+  },
+  {
+    name: 'ryan_fleming',
+    ip: '10.10.10.94',
+    private: 'iNBhej3X5WOKtEKlY5z7uWgGu8AK0/ttJK2fkGFFy30=',
+    public: 'V5hyln99VwGD2wIAD9cdtY4rZ7Iv3uT25vVzm7xnqU4=',
+  },
 ]
