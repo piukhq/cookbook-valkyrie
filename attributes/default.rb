@@ -432,4 +432,10 @@ default['valkyrie']['users'] = [
     private: 'iNBhej3X5WOKtEKlY5z7uWgGu8AK0/ttJK2fkGFFy30=',
     public: 'V5hyln99VwGD2wIAD9cdtY4rZ7Iv3uT25vVzm7xnqU4=',
   },
+  {
+    name: 'joshua_irving',
+    ip: '10.10.10.95',
+    private: 'OF5yJkNI8HcnQavz+0txO/ePomVrk7mVWAmen8o1pE4=',
+    public: '1HcTLcr/uHkzDEIG7yT62BXf3S7vpF4v7An+PwdfuVc=',
+  },
 ]
